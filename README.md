@@ -6,8 +6,8 @@ This repository contains a practice exercise for the About Machine Learning tuto
 
 The dataset used in this practice exercise is a custom-made dataset about home prices. It includes the following columns:
 
-- **Area**: Represents the area (in square feet) of a home.
-- **Price**: Represents the corresponding price (in dollars) of the home.
+- **Area**: Represents the area of a home.
+- **Price**: Represents the corresponding price of the home.
 
 Please note that this dataset is a simplified example for learning purposes.
 
