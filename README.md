@@ -36,7 +36,7 @@ Make sure to install the necessary libraries before running the provided noteboo
 To run the exercise, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-  - git clone https://github.com/w412k/your-repo.git
+  - git clone [https://github.com/w412k/your-repo.git](https://github.com/w412k/Machine-Learning-Tutorial-Save-Model-Using-Joblib-And-Pickle.git)
 
 2. Open the Jupyter Notebooks in your preferred environment (e.g., Jupyter Notebook, JupyterLab).
 
