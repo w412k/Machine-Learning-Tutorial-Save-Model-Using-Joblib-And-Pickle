@@ -40,9 +40,7 @@ To run the exercise, follow these steps:
 
 2. Open the Jupyter Notebooks in your preferred environment (e.g., Jupyter Notebook, JupyterLab).
 
-3. Run the `train_model.ipynb` notebook to train a machine learning model on the home prices dataset and save it using both the Pickle and Joblib libraries.
-
-4. Once the model is saved, you can use the `predict_model.ipynb` notebook to load the saved model and make predictions on new data.
+3. Run the `ipynb` notebook to train a machine learning model on the home prices dataset and save it using both the Pickle and Joblib libraries.
 
 Feel free to modify and experiment with the provided code to deepen your understanding of saving and loading trained models.
 
