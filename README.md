@@ -46,7 +46,7 @@ Feel free to modify and experiment with the provided code to deepen your underst
 
 ## Acknowledgments
 
-The tutorial and practice exercise are inspired by the About Machine Learning tutorial series. We would like to express our gratitude to the creators and contributors of the series for providing valuable resources and knowledge.
+The tutorial and practice exercise are inspired by Codebasics Machine Learning tutorial series. We would like to express our gratitude to the creators and contributors of the series for providing valuable resources and knowledge.
 
 
 
