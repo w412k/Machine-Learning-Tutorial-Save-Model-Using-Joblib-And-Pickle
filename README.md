@@ -15,8 +15,7 @@ Please note that this dataset is a simplified example for learning purposes.
 
 The repository includes the following files:
 
-- **train_model.ipynb**: A Jupyter Notebook that demonstrates the process of training a machine learning model on the home prices dataset and saving it using both the Pickle and Joblib libraries.
-- **predict_model.ipynb**: A Jupyter Notebook that showcases how to load the saved model and make predictions on new data.
+- **train_model.ipynb**: A Jupyter Notebook that demonstrates the process of training a machine learning model on the home prices dataset and saving it using both the Pickle and Joblib libraries and showcases how to load the saved model and make predictions on new data.
 - **data.csv**: The dataset file in CSV format.
 
 ## Dependencies
